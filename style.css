@@ -1,0 +1,18 @@
+table {
+	border-color : black;
+	text-align:center;
+}
+
+table,th, td
+{
+border: 1px solid gray;
+}
+
+th, td
+{
+height: 24px;
+vertical-align:middle;
+padding: 4px;  
+}
+
+
